@@ -1,0 +1,3 @@
+D:/помойка/Уч/AnDS/practice03/cmake-build-debug/CMakeFiles/practice03.dir
+D:/помойка/Уч/AnDS/practice03/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/помойка/Уч/AnDS/practice03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
