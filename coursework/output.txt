@@ -1,0 +1,8 @@
+A B
+B C
+B D
+C E
+C G
+D I
+E F
+46
